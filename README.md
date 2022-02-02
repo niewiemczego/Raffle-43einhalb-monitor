@@ -1,4 +1,6 @@
 # Raffle-43einhalb-monitor
+One of my first monitor to track raffles
+
 Tested using python 3.9.4
 
 Drop ⭐️ If you find it useful
